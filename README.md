@@ -1,7 +1,7 @@
 # logica-programacao
  Curso de logica de Programacao em Python
 # explicação do código calculadora em python (calculadora.py)
-Calculadora simples que tem continuidade de função ate usuário solicitar sair da calculadora  
+Calculadora simples que tem continuidade de função ate usuário solicitar sair da calculadora <br />
 a calculadora oferece 5 operações :
 adição (+)
 Subtração (-)
